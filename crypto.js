@@ -59,4 +59,3 @@ function sendNotification() {
     $notification.post(notificationTitle, '', body);
   }
 }
-CDN
